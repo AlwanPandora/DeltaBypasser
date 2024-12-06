@@ -8,8 +8,8 @@
 // @match        https://auth.platoboost.net/a/8?id=*
 
 // @grant        none
-// @downloadURL https://update.greasyfork.org/scripts/505117/Delta%20Key%20Bypasser.user.js
-// @updateURL https://update.greasyfork.org/scripts/505117/Delta%20Key%20Bypasser.meta.js
+// @downloadURL https://raw.githubusercontent.com/AlwanPandora/DeltaBypasser/refs/heads/main/Delta%20bypass-4.0%20copy.js
+// @updateURL https://raw.githubusercontent.com/AlwanPandora/DeltaBypasser/refs/heads/main/Delta%20bypass-4.0%20copy.js
 // ==/UserScript==
 
 (function() {
